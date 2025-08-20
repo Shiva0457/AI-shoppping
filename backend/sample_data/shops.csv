@@ -1,0 +1,4 @@
+shop_id,shop_name,product_name,brand,price,currency,address,city,pincode,latitude,longitude,last_updated
+S001,SuperMart,Milk 1L,DailyBrand,48.00,INR,No.12 MG Road,Coimbatore,641001,11.0168,76.9558,2025-07-30
+S002,LocalStore,Bread 400g,BakeWell,35.00,INR,12 North St,Coimbatore,641002,11.0200,76.9500,2025-07-28
+S003,FreshFarm,Eggs 12pcs,FarmFresh,70.00,INR,Market Road,Coimbatore,641003,11.0180,76.9520,2025-07-29
